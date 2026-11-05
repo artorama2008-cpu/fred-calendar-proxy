@@ -7,8 +7,7 @@ API_KEY = os.environ.get("FRED_API_KEY")
 if not API_KEY:
     raise ValueError("No se encontró la variable de entorno FRED_API_KEY")
 
-# Endpoint de la API v2 de FRED para fechas de publicación
-# Release IDs: 10 = CPI, 50 = Empleo (NFP)
+# Endpoint de la API v1 de FRED para fechas de publicación (release/dates)
 RELEASES = [
     {"id": 10, "type": "CPI", "name": "CPI (FRED)"},
     {"id": 50, "type": "NFP", "name": "Informe de empleo (NFP, FRED)"}
@@ -17,16 +16,21 @@ RELEASES = [
 all_events = []
 
 for rel in RELEASES:
-    url = f"https://api.stlouisfed.org/fred/v2/release/dates?release_id={rel['id']}&file_type=json&include_release_dates_with_no_data=true&sort_order=desc&limit=40"
-    
-    # La autenticación en v2 se hace con el header Authorization
-    headers = {
-        "Authorization": f"Bearer {API_KEY}"
-    }
+    # URL de la API v1: sin /v2/ y con api_key como parámetro de consulta
+    url = (
+        f"https://api.stlouisfed.org/fred/release/dates?"
+        f"release_id={rel['id']}&"
+        f"api_key={API_KEY}&"
+        f"file_type=json&"
+        f"include_release_dates_with_no_data=true&"
+        f"sort_order=desc&"
+        f"limit=40"
+    )
     
     try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()  # Lanza una excepción si el código de estado es 4xx/5xx
+        # La autenticación v1 va en la URL, no en las cabeceras
+        response = requests.get(url)
+        response.raise_for_status()
         
         data = response.json()
         dates = data.get("release_dates", [])
