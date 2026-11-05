@@ -10,7 +10,8 @@ if not API_KEY:
 # Endpoint de la API v1 de FRED para fechas de publicación (release/dates)
 RELEASES = [
     {"id": 10, "type": "CPI", "name": "CPI (FRED)"},
-    {"id": 50, "type": "NFP", "name": "Informe de empleo (NFP, FRED)"}
+    {"id": 50, "type": "NFP", "name": "Informe de empleo (NFP, FRED)"},
+    {"id": 101, "type": "FOMC", "name": "FOMC (decisión, FRED)"} # <-- Añadido el ID 101
 ]
 
 all_events = []
