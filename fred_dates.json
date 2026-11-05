@@ -1,1 +1,562 @@
-[]
+[
+  {
+    "date": "2026-12-10",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-10",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-10-14",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-09-11",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-08-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-07-14",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-06-10",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-05-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-04-10",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-03-11",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-02-13",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-01-13",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-12-18",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-10-24",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-09-11",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-08-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-07-15",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-06-11",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-05-13",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-04-10",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-03-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-02-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-01-15",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-12-11",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-11-13",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-10-10",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-09-11",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-08-14",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-07-11",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-06-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-05-15",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-04-10",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-03-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-02-13",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-02-09",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-01-11",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2023-12-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2023-11-14",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2023-10-12",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2023-09-13",
+    "name": "CPI (FRED)",
+    "type": "CPI",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-04",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-06",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-10-02",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-09-04",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-08-07",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-07-02",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-06-05",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-05-08",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-03-06",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-02-11",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-01-09",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-12-16",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-11-20",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-09-05",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-08-01",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-07-03",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-06-06",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-05-02",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-04-04",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-03-07",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-02-07",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2025-01-10",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-12-06",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-11-01",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-10-04",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-09-06",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-08-21",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-08-02",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-07-05",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-06-07",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-05-03",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-04-05",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-03-08",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-02-02",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-01-10",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2024-01-05",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2023-12-08",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2023-11-03",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2023-10-06",
+    "name": "Informe de empleo (NFP, FRED)",
+    "type": "NFP",
+    "after": 0,
+    "source": "FRED"
+  }
+]
