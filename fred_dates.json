@@ -558,5 +558,285 @@
     "type": "NFP",
     "after": 0,
     "source": "FRED"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-30",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-29",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-28",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-27",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-23",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-22",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-21",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-20",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-19",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-18",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-17",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-16",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-15",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-14",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-13",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-12",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-11",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-10",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-09",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-07",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-06",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-05",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-04",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-03",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-02",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-12-01",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-30",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-29",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-28",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-26",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-25",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-23",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
+  },
+  {
+    "date": "2026-11-22",
+    "name": "FOMC (decisión, FRED)",
+    "type": "FOMC",
+    "after": 0,
+    "source": "FRED"
   }
 ]
